@@ -1,17 +1,22 @@
 ## 🌙 Hey, moi c'est Angelika.
-Je suis développeuse FullStack en formation à la 3W Academy, et je crois que le web peut être à la fois fonctionnel et beau — pas l'un ou l'autre.
+Je suis développeuse FullStack en formation à la 3W Academy, et je crois que le web peut être à la fois fonctionnel et beau — pas l'un ou l'autre. <br>
 Je code avec autant d'attention que je lis un roman ou que je regarde une expo : avec curiosité, patience, et l'envie que chaque détail compte.
 
 ##
-Trilingue 🇫🇷 Français · 🇬🇧 Anglais · 🇷🇺 Russe avec 🇪🇸 Espagnol en cours d'apprentissage, curieuse de tout, et convaincue que voyager rend meilleure développeurse.
+Trilingue 🇫🇷 Français · 🇬🇧 Anglais · 🇷🇺 Russe avec 🇪🇸 Espagnol en cours d'apprentissage, curieuse de tout, et convaincue que voyager rend meilleure développeuse.
 
 ##
 🎨 Ce que je sais faire
+<br>
   frontend : ["HTML", "CSS", "Tailwind", "SASS", "JavaScript",
               "TypeScript", "React", "Three.js"],
+              <br>
   backend  : ["Node.js", "Express", "PHP", "Symfony", "Python", "Java"],
+  <br>
   bdd      : ["MySQL", "PostgreSQL", "MongoDB"],
+  <br>
   outils   : ["Git", "Docker", "Figma", "UX/UI"],
+  <br>
   bonus    : ["Cybersécurité", "IA", "RGPD/CNIL ✓"]
 
 ##
@@ -29,6 +34,7 @@ Parce que savoir parler aux gens, c'est aussi une compétence de dev.
 🔍 Ce que je cherche
 
 Un stage de 4 mois (avril → juillet 2026) dans un projet web créatif, ambitieux, avec une équipe qui aime ce qu'elle fait.
+<br>
 Si tu construis quelque chose d'intéressant, j'aimerais en faire partie.
 
 <div align="center">
