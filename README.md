@@ -1,5 +1,35 @@
-## Hi there 👋
+## 🌙 Hey, moi c'est Angelika.
+Je suis développeuse FullStack en formation à la 3W Academy, et je crois que le web peut être à la fois fonctionnel et beau — pas l'un ou l'autre.
+Je code avec autant d'attention que je lis un roman ou que je regarde une expo : avec curiosité, patience, et l'envie que chaque détail compte.
 
+Trilingue 🇫🇷 Français · 🇬🇧 Anglais · 🇷🇺 Russe avec Espagnol en cours d'apprentissage, curieuse de tout, et convaincue que voyager rend meilleure développeurse.
+
+🎨 Ce que je sais faire
+javascriptconst angelika = {
+  frontend : ["HTML", "CSS", "Tailwind", "SASS", "JavaScript",
+              "TypeScript", "React", "Three.js"],
+  backend  : ["Node.js", "Express", "PHP", "Symfony", "Python", "Java"],
+  bdd      : ["MySQL", "PostgreSQL", "MongoDB"],
+  outils   : ["Git", "Docker", "Figma", "UX/UI"],
+  bonus    : ["Cybersécurité", "IA", "RGPD/CNIL ✓"]
+}
+
+📖 Mon parcours en quelques lignes
+🎬 AV-WARE (start-up audiovisuel) · Stage · Été 2025
+Intégration catalogue sur PrestaShop, corrections CSS, débug, aide au lancement.
+
+🏛️ Grand Palais RMN · Vendeuse boutique · Mars 2025 – aujourd'hui
+Parce que savoir parler aux gens, c'est aussi une compétence de dev.
+
+📚 3W Academy · Bachelor FullStack · 2024 → 2027
+
+🔍 Ce que je cherche
+Un stage de 4 mois (avril → juillet 2026) dans un projet web créatif, ambitieux, avec une équipe qui aime ce qu'elle fait.
+Si tu construis quelque chose d'intéressant, j'aimerais en faire partie.
+
+<div align="center">
+"Le bon code, comme la bonne écriture : on ne voit pas le travail. On ressent juste que ça marche."
+📩 Disponible dès le 1er avril 2026 · 07 64 22 74 04
 <!--
 **angelikalavrentiev/angelikalavrentiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
