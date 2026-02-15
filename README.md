@@ -23,9 +23,11 @@ Trilingue 🇫🇷 Français · 🇬🇧 Anglais · 🇷🇺 Russe avec 🇪🇸
 📖 Mon parcours en quelques lignes
 
 🎬 AV-WARE (start-up audiovisuel) · Stage · Été 2025
+<br>
 Intégration catalogue sur PrestaShop, corrections CSS, débug, aide au lancement.
 
 🏛️ Grand Palais RMN · Vendeuse boutique · Mars 2025 – aujourd'hui
+<br>
 Parce que savoir parler aux gens, c'est aussi une compétence de dev.
 
 📚 3W Academy · Bachelor FullStack · 2024 → 2027
